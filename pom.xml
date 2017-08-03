@@ -42,7 +42,7 @@
 		</dependency>
 		
 		
-		<!-- jstl을 사용하기위함 . jar 파일 두개 넣었엇는데 이젠 이렇게 다운받는당~~-->
+	<!-- jstl을 사용하기위함 . jar 파일 두개 넣었엇는데 이젠 이렇게 다운받는당~~-->
 		<dependency>
 			<groupId>javax.servlet</groupId>
 			<artifactId>jstl</artifactId>
